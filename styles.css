@@ -22,6 +22,10 @@ ul {
 color: purple;
 }
 
+a {
+
+  font-family:"Comic Neue", cursive;
+}
 
 .comic-neue-light {
   font-family: "Comic Neue", cursive;
