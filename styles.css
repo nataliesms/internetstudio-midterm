@@ -1,13 +1,25 @@
 h {
 
   font-family:"Ewert", serif;
-  font-color: green;
+  color: green;
 }
 
 p {
 
 font-family:"Comic Neue", cursive;
-font-color: purple;
+color: purple;
+}
+
+li {
+
+  font-family:"Comic Neue", cursive;
+  color: purple;  
+}
+
+ul {
+
+  font-family:"Comic Neue", cursive;
+color: purple;
 }
 
 
