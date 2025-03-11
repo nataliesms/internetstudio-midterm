@@ -1,3 +1,15 @@
+h {
+
+  font-family:"Ewert", serif;
+}
+
+p {
+
+font-family:"Comic Neue", cursive;
+font-color: purple;
+}
+
+
 .comic-neue-light {
   font-family: "Comic Neue", cursive;
   font-weight: 300;
